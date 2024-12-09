@@ -4,7 +4,7 @@
 <h2>Projeto</h2>
 <p>
     Foi criada uma aplicação que busca, por meio de uma chave API do YouTube no Google Cloud, as informações da playlist de melhores momentos da Fórmula 1 em 2024 no YouTube. 
-    Na utilização da biblioteca no meu código, usei funções que são da própria biblioteca, como <code>videos()</code> e <code>playlistItems()</code> e usei tbm a biblioteca pandas que contém funções que pegam os dados da minha API em python para jogar eles em um arquivo excel que contém graficos de vizualização e curtidas de todos os videos.
+    Na utilização da biblioteca no meu código, usei funções que são da própria biblioteca, como <code>videos()</code> e <code>playlistItems()</code> e usei tbm a biblioteca pandas que contém funções, como a <code>ExcelWriter</code>, que pegam os dados da minha API em python para jogar eles em um arquivo excel que contém graficos de vizualização e curtidas de todos os videos.
 </p>
 <p>
     Minha lógica consistiu em usar uma função para extrair os dados de cada vídeo, assim tornando o código mais fácil de entender e mais organizado.
