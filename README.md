@@ -35,4 +35,5 @@
     <li>Clone o repositório.</li>
     <li>Insira sua chave de API no local indicado no código.</li>
     <li>Execute o script clicando em <code>RUN</code>.</li>
+    <li>Depois que rodar, aparecerá um arquivo excel, nele haverá o dashboard com os dados. Para conseguir ver, tem que abrir esse arquivo no excel.</li>
 </ol>
